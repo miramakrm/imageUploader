@@ -1,0 +1,37 @@
+[
+  {
+    "Id": "guid-1",
+    "Title": "Image 1 Title",
+    "FileName": null
+  },
+  {
+    "Id": "0d93a89f-3bed-47e3-80d6-b7839e440633",
+    "Title": "mira",
+    "FileName": "wwwroot\\uploads\\0d93a89f-3bed-47e3-80d6-b7839e440633_navigo.jpg"
+  },
+  {
+    "Id": "f32e6974-f12f-40e7-a88a-f2aa62d4dfa6",
+    "Title": "mira",
+    "FileName": "wwwroot\\uploads\\f32e6974-f12f-40e7-a88a-f2aa62d4dfa6_navigo.jpg"
+  },
+  {
+    "Id": "c53c5ad2-7288-4325-97b0-0920cfc1681b",
+    "Title": "mira",
+    "FileName": "wwwroot\\uploads\\c53c5ad2-7288-4325-97b0-0920cfc1681b_navigo.jpg"
+  },
+  {
+    "Id": "df4d314d-8b78-4bc1-a61d-9b850c79b181",
+    "Title": "mira",
+    "FileName": "wwwroot\\uploads\\df4d314d-8b78-4bc1-a61d-9b850c79b181_navigo.jpg"
+  },
+  {
+    "Id": "8e4e0a5f-499e-44ae-ac80-0a014b3ffcaf",
+    "Title": "mira",
+    "FileName": "wwwroot\\uploads\\8e4e0a5f-499e-44ae-ac80-0a014b3ffcaf_navigo.jpg"
+  },
+  {
+    "Id": "72e65ad0-4016-427a-8e7b-26aa2c931eaa",
+    "Title": "sea",
+    "FileName": "wwwroot\\uploads\\72e65ad0-4016-427a-8e7b-26aa2c931eaa_boat.png"
+  }
+]
